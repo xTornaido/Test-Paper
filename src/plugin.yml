@@ -1,0 +1,6 @@
+name: Test
+main: test.Test
+version: 1.0.0
+api-version: 1.18
+description: Test Plugin
+author: Tornaido
